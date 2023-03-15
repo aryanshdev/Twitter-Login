@@ -16,9 +16,8 @@ And Here is What I was Able to Make....
 
 ![Twitter Login Page I Made](repo-images/whatimade.png)
 
-<br>Here it is in Action
+<br>Here it is in Action :
 
-<video controls src="repo-images/workingvid.mp4" autoplay>
-</video>
+![GIF Showing the Working Page](repo-images/working.gif)
 
 Go have a look yourself : [Login page](https://aryanshdev.github.io/Twitter-Login/)
