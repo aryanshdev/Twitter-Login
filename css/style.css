@@ -110,3 +110,10 @@ body {
     margin: 10px 0 0 0;
     right: 15%;
 }
+
+.new-signup{
+    padding-top: 5% ;
+    font-size: 0.7rem;
+    font-weight: 500;
+    color: gray;
+}
