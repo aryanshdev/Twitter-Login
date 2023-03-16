@@ -129,7 +129,7 @@ body {
     .row{
         text-align: center;
         height: auto;
-        align-content: center;
+        align-content: center; 
     }
     .main{
         text-align: center;
